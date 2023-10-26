@@ -1,0 +1,22 @@
+name: bni
+
+channels:
+- conda-forge
+- defaults
+
+dependencies:
+- pip
+- ipykernel
+- numpy
+- pandas
+- mysql-connector-python
+- xlrd
+- openpyxl
+- matplotlib
+- seaborn
+- folium
+- wordcloud
+- scipy
+- scikit-learn
+- graphviz
+- pydotplus
